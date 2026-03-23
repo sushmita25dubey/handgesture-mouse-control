@@ -67,7 +67,7 @@ Higher FPS = smoother and faster performance.
 5. PyAutoGUI converts gestures into mouse actions
    
 ## 📸 Demo
-> https://www.linkedin.com/in/sushmita-dubey-4ab988338/
+> www.linkedin.com/in/sushmitadubey
 
 ## 🔮 Future Improvements
 * 🎛️ Sensitivity & calibration settings
