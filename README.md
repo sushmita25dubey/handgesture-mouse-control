@@ -84,7 +84,7 @@ Higher FPS = smoother and faster performance.
 
 ## 👩‍💻 Author
 **Sushmita Dubey**
-B.Tech CSE | AI & Web Development Enthusiast
+B.Tech CSE | AI & Web Development 
 
 ## ⭐ Support
 If you found this project useful, please give it a ⭐ on GitHub!
