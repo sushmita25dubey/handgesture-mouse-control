@@ -74,6 +74,7 @@ Higher FPS = smoother and faster performance.
 * 🧠 Custom gesture recognition (AI/ML)
 * 🖥️ Multi-monitor support
 * 🎮 Game control integration
+  
 
 ## 💡 Use Cases
 
